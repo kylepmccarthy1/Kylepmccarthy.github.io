@@ -22,12 +22,18 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
+--- 
+[Home Tax Credit Prediction Model - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/714600)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
-[OLS Regression Modeling](https://drive.google.com/file/d/1AeSWAYSwQMH27qGKKnTcJ36NV932aQ7O/view?usp=sharing)
+
+---
+[OLS Regression Modeling - R Studio, ArcGIS](https://drive.google.com/file/d/1AeSWAYSwQMH27qGKKnTcJ36NV932aQ7O/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
-[Spatial Lag and Spatial Error](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
+[Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
