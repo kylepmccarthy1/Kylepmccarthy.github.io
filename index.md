@@ -5,16 +5,16 @@
 ### Masters Urban Spatial Analytics @ University of Pennsylvania
 
 [Modeling the Heroin Overdose Crisis in Cincinnati - R Studio (Machine Learning)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmM-kaYQsX7k%26fbclid%3DIwAR360Wv4RbVYMpqIVk2d55uNUrvPSpcaO09fnAG1UvdfPeMNOVSNNQ5WmgM&h=AT0jWpFFAxozj4dA17KEef_cXbc04KK8UserChWlwssMJI7HPwL3ng4uVSvZBldG1sUWyttsesfEoI3tGLOuDNGgWA6cuQIq9H2wIKtlqErNJ1dCay0ubGuvOZFAPJi22ziMT5KaVPxtRdDGkyfm&__tn__=-UK-R&c[0]=AT33Rgnm4vR5ADXAM1eyU2nEYkYjoMzaZ6S1yPi_LXVD3kkLo7uwV4QrrgJ7VBTPunwh-IHHpY9z-yQGC5Sszp_oPK8JLXmD1QNoNucSv8R8-U6L-c8MWdguVONd0WKe8GFJ5ut2aQgAUN1-VBtP2ucIGw)
-<img src="images/youtube.png?raw=true"/>
+<img src="images/youtube.PNG?raw=true"/>
 
 ---
 
 [Vermont Car Crash - Trauma Ceneter Analysis- ArcPy, ArcGIS API, ArcGIS Pro](https://drive.google.com/file/d/1v7lfxWe2dVEcb45x4YQkDiwreRLbfSVr/view?fbclid=IwAR1y9kDaGO5jR2PlWJte22DnhK-2J-pgZ6gzhc4vhXKFFbM5OQtxNDsh5SM)
-<img src="images/Vermont.jpg?raw=true"/>
+<img src="images/Vermont.PNG?raw=true"/>
 
 ---
 [Modeling Bike Share Usage Philadelphia - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/710366?fbclid=IwAR3fos9kkoVe9W1RH8QCTbR7aWhHTbM7qKWlLPUTBcgpU4ER_lVkcXLjSbk)
-<img src="images/bike.png?raw=true"/>
+<img src="images/bike.PNG?raw=true"/>
 ---
 
 ---
