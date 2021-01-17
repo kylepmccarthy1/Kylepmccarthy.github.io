@@ -27,8 +27,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
+[Spatial Lag and Spatial Error](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
-[New Zealand Climate Chagne Analysis - Google Earth Engine](https://drive.google.com/file/d/1AeSWAYSwQMH27qGKKnTcJ36NV932aQ7O/view?usp=sharing)
+[New Zealand Climate Chagne Analysis - Google Earth Engine](https://drive.google.com/file/d/1ez9GRv3Alx88v6JEIJmmF56Qu5jQ13gP/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
