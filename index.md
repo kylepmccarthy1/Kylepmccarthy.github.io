@@ -51,7 +51,6 @@
 
 ---
 
-
 ---
 
 [EVIDENCE FOR POLYPHASE DEFORMATION IN THE MYLONITIC ZONES BOUNDING THE CHESTER AND ATHENS DOMES, SOUTHEASTERN VERMONT, FROM 40AR/39AR GEOCHRONOLOGY](https://www.uvm.edu/sites/default/files/Department-of-Geology/SchnalzerPoster.pdf)<img src="images/rock.PNG?raw=true"/>
@@ -76,6 +75,8 @@
 ---
 
 [Mapping Essential Resources in the Greater Burlington Area via Local GMT Bus Routes](https://drive.google.com/file/d/1Hp5BMTz7gRHoaDwPTEz_XrJnomf24fLm/view?usp=sharing)<img src="images/bus.PNG?raw=true"/>
+
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
