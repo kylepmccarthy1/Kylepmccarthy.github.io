@@ -30,14 +30,14 @@
 
 ---
 [OLS Regression Modeling - R Studio, ArcGIS](https://drive.google.com/file/d/1AeSWAYSwQMH27qGKKnTcJ36NV932aQ7O/view?usp=sharing)
-<img src="images/ols.PNG?raw=true"/ width = "200" height = "450"
+<img src="images/ols.PNG width = "200" height = "450"/>
 
 [Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
 <img src="images/lag.PNG?raw=true"/>
 
 ---
 [New Zealand Climate Chagne Analysis - Google Earth Engine](https://drive.google.com/file/d/1ez9GRv3Alx88v6JEIJmmF56Qu5jQ13gP/view?usp=sharing)
-<img src="images/ee.PNG?raw=true"width = "200" height = "450"/>
+<img src="images/ee.PNG width = "200" height = "450"/>
 
 
 
