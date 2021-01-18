@@ -59,18 +59,22 @@
 ---
 
 ---
+
 [Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)<img src="images/geo.PNG?raw=true"/>
 ---
 
 ---
+
 [ENVI Time Series Analysis: Detecting Changes in Atmospheric Water Vapor and Cloud Features within Hurricane Barry](https://drive.google.com/file/d/1gPxt5yPMF9d0hxpzzUlLqvzCTWy8yjiB/view?usp=sharing)<img src="images/envi.PNG?raw=true"/>
 ---
 
 ---
+
 [Indiana Tree Canopy and Surface Temperature Relationships - ArcGIS, Tableau](https://public.tableau.com/profile/kyle3622#!/vizhome/RelationshipBetweenTreeCanopyandMeanSurfaceTemperatureinIndianapolisGrids/Dashboard1?publish=yes)<img src="images/tree.PNG?raw=true"/>
 ---
 
 ---
+
 [Mapping Essential Resources in the Greater Burlington Area via Local GMT Bus Routes](https://drive.google.com/file/d/1Hp5BMTz7gRHoaDwPTEz_XrJnomf24fLm/view?usp=sharing)<img src="images/bus.PNG?raw=true"/>
 
 ---
