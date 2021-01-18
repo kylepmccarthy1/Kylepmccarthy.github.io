@@ -38,22 +38,40 @@
 
 ---
 [New Zealand Climate Chagne Analysis - Google Earth Engine](https://drive.google.com/file/d/1ez9GRv3Alx88v6JEIJmmF56Qu5jQ13gP/view?usp=sharing)
-<img src="images/ee.PNG?raw=false"/>
+<img src="images/ee.PNG?raw=true"/>
 
 
 
 ### University of Vermont Undergraduate 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+---
+
+[The Atomic Arrangement of Cr-rich Tourmaline from the #1 Mine, Balmat, St. Lawrence County, New York- MATLAB, APEX, Crystal Chemistry](http://example.com/)<img src="images/crystal.PNG?raw=true"/>
 
 ---
 
 
+---
 
+[EVIDENCE FOR POLYPHASE DEFORMATION IN THE MYLONITIC ZONES BOUNDING THE CHESTER AND ATHENS DOMES, SOUTHEASTERN VERMONT, FROM 40AR/39AR GEOCHRONOLOGY](https://www.uvm.edu/sites/default/files/Department-of-Geology/SchnalzerPoster.pdf)<img src="images/rock.PNG?raw=true"/>
+
+---
+
+---
+[Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)<img src="images/geo.PNG?raw=true"/>
+---
+
+---
+[ENVI Time Series Analysis: Detecting Changes in Atmospheric Water Vapor and Cloud Features within Hurricane Barry](https://drive.google.com/file/d/1gPxt5yPMF9d0hxpzzUlLqvzCTWy8yjiB/view?usp=sharing)<img src="images/envi.PNG?raw=true"/>
+---
+
+---
+[Indiana Tree Canopy and Surface Temperature Relationships - ArcGIS, Tableau](https://public.tableau.com/profile/kyle3622#!/vizhome/RelationshipBetweenTreeCanopyandMeanSurfaceTemperatureinIndianapolisGrids/Dashboard1?publish=yes)<img src="images/tree.PNG?raw=true"/>
+---
+
+---
+[Mapping Essential Resources in the Greater Burlington Area via Local GMT Bus Routes](https://drive.google.com/file/d/1Hp5BMTz7gRHoaDwPTEz_XrJnomf24fLm/view?usp=sharing)<img src="images/bus.PNG?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
