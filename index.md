@@ -37,7 +37,7 @@
 
 ---
 [New Zealand Climate Chagne Analysis - Google Earth Engine](https://drive.google.com/file/d/1ez9GRv3Alx88v6JEIJmmF56Qu5jQ13gP/view?usp=sharing)
-<img src="images/ee.PNG?raw=true"/ width = "200" height = "450">
+<img src="images/ee.PNG?raw=true"width = "200" height = "450"/>
 
 
 
