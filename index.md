@@ -15,12 +15,6 @@
 <img src="images/Vermont.PNG?raw=true"/>
 
 ---
-[Modeling Bike Share Usage Philadelphia - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/710366?fbclid=IwAR3fos9kkoVe9W1RH8QCTbR7aWhHTbM7qKWlLPUTBcgpU4ER_lVkcXLjSbk)
-
-<img src="images/bike.PNG?raw=true"/>
----
-
----
 [Modeling Worse Case Scenario Public Building Earthquake Damage in San Diego- PostGreSQL, HTML, Python, SQL Alchemy, CSS, JavaScript, Flask, AWS) - Note that application is no longer hosted by AWS](https://github.com/kylepmccarthy/San-Diego-Earthquake-Model)
 
 <img src="images/sand.jpg?raw=true"/>
@@ -33,7 +27,11 @@
 
 ---
 
+[Modeling Bike Share Usage Philadelphia - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/710366?fbclid=IwAR3fos9kkoVe9W1RH8QCTbR7aWhHTbM7qKWlLPUTBcgpU4ER_lVkcXLjSbk)
+
+<img src="images/bike.PNG?raw=true"/>
 ---
+
 [OLS Regression Modeling - R Studio, ArcGIS](https://drive.google.com/file/d/1AeSWAYSwQMH27qGKKnTcJ36NV932aQ7O/view?usp=sharing)
 
 <img src="images/ols.PNG?raw=false"/>
