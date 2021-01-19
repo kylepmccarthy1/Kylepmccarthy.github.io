@@ -48,6 +48,21 @@
 
 <img src="images/ee.PNG?raw=true"/>
 
+---
+
+### Writing Samples 
+
+[Swanton, Vermont - Zoning Ordinance Analysis](https://drive.google.com/file/d/1b29rToJGBXgPllRc0IEYcCZmECbClpux/view?usp=sharing)
+
+<img src="images/Swanton.PNG?raw=true"/>
+
+[Lowell, Massachussettes -  Form Based Code Analysis](https://drive.google.com/file/d/1b29rToJGBXgPllRc0IEYcCZmECbClpux/view?usp=sharing)
+
+<img src="images/form.PNG?raw=true"/>
+
+---
+
+
 
 
 ### University of Vermont Undergraduate 
@@ -55,7 +70,7 @@
 
 ---
 
-[The Atomic Arrangement of Cr-rich Tourmaline from the #1 Mine, Balmat, St. Lawrence County, New York- MATLAB, APEX, Crystal Chemistry](http://example.com/)
+[The Atomic Arrangement of Cr-rich Tourmaline from the #1 Mine, Balmat, St. Lawrence County, New York- MATLAB, APEX, Crystal Chemistry](https://www.mdpi.com/2075-163X/9/7/398)
 
 <img src="images/crystal.PNG?raw=true"/>
 
@@ -98,6 +113,6 @@
 
 ---
 
----
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
