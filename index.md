@@ -37,7 +37,7 @@
 <img src="images/ols.PNG?raw=false"/>
 ---
 
-[Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
+[Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://docs.google.com/document/d/1sWQaKYYtQlYFdfDRW5EQsLKk5Z4loioaW-g-EJo7-pw/edit?usp=sharing)
 
 <img src="images/lag.PNG?raw=true"/>
 
