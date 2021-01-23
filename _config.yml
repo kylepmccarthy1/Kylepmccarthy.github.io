@@ -1,10 +1,8 @@
 title: Kyle McCarthy # your name (or website title) here
 logo: "/images/me.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my Portfolio!
-  <br>
+  I am a Masters of Urban Spatial Analytics student at the University of Pennsylvania with a focus in environmental planning. I am interested in using data to solve social, economic and environmental dilemmas. I have a background in both the geosciences, human geography, and urban planning where I have learned to solve a multitude of spatial analytical problems. I have developed a variety of programming skills, GIS skills, and remote sensing skills suitable to a large variety of industries. I can be of great help in a variety of fields includeing machine learning, web development, GIS, environmental science and city planning. 
   <a href="www.linkedin.com/in/kyle-mccarthy-9338a8177">View My LinkedIn Profile</a> 
-  <br> 
   <a href="https://drive.google.com/file/d/1TWhnNVjqKauBx1Z6r2TPx30UOftOJus2/view?usp=sharing">View My Resume</a>
   
 theme: jekyll-theme-minimal
