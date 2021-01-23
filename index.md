@@ -1,7 +1,7 @@
 # Portfolio
 
-Zoom out if unable to read 
 ---
+* Zoom out of web page if unable to read
 
 ## Masters Urban Spatial Analytics @ University of Pennsylvania
 
