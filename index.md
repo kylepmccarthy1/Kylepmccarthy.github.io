@@ -1,5 +1,5 @@
 # Portfolio
-I am a Masters of Urban Spatial Analytics student at the University of Pennsylvania with a focus in environmental planning. I am interested in using data to solve social, economic and environmental dilemmas. I have a background in both the geosciences, human geography, and urban planning where I have learned to solve a multitude of spatial analytical problems. I have developed a variety of programming skills, GIS skills, and remote sensing skills suitable to a large variety of industries. Looking for opportunities in machine learning, web development, GIS, environmental science and city planning 
+
 ---
 
 ## Masters Urban Spatial Analytics @ University of Pennsylvania
