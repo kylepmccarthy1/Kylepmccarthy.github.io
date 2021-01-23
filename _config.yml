@@ -6,6 +6,3 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="www.linkedin.com/in/kyle-mccarthy-9338a8177">View My LinkedIn Profile</a> 
   <br> 
   <a href="https://drive.google.com/file/d/1TWhnNVjqKauBx1Z6r2TPx30UOftOJus2/view?usp=sharing">View My Resume</a>
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
