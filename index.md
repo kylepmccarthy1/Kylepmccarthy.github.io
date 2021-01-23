@@ -1,5 +1,5 @@
 # Portfolio
-
+I am a Masters of Urban Spatial Analytics student at the University of Pennsylvania with a focus in environmental planning. I am interested in using data to solve social, economic and environmental dilemmas. I have a background in both the geosciences, human geography, and urban planning where I have learned to solve a multitude of spatial analytical problems. I have developed a variety of programming skills, GIS skills, and remote sensing skills suitable to a large variety of industries. Looking for opportunities in machine learning, web development, GIS, environmental science and city planning 
 ---
 
 ## Masters Urban Spatial Analytics @ University of Pennsylvania
@@ -19,7 +19,6 @@
 
 <img src="images/sand.jpg?raw=true"/>
 ---
-
 --- 
 [Home Tax Credit Prediction Model - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/714600)
 
@@ -37,7 +36,7 @@
 <img src="images/ols.PNG?raw=false"/>
 ---
 
-[Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1xpb4vQrLXzNzez0QKWKnwVGN5fLVdNJ8/view?usp=sharing)
+[Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
 
 <img src="images/lag.PNG?raw=true"/>
 
