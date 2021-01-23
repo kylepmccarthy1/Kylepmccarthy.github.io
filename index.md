@@ -1,5 +1,4 @@
 # Portfolio
-<img src="/images/me.PNG?raw=true" />
 
 ---
 
