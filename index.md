@@ -12,7 +12,7 @@
 
 <img src="images/youtube.PNG?raw=true"/>
 
----
+------
 
 #### Vermont Car Crash Trauma Center Analysis
 
@@ -22,7 +22,7 @@
 
 <img src="images/Vermont.PNG?raw=true"/>
 
----
+------
 
 #### San Diego Earthquake Prediction Web Application
 
@@ -31,8 +31,8 @@
 [Modeling Worse Case Scenario Public Building Earthquake Damage in San Diego- PostGreSQL, HTML, Python, SQL Alchemy, CSS, JavaScript, Flask, AWS)](https://github.com/kylepmccarthy/San-Diego-Earthquake-Model)
 
 <img src="images/sand.jpg?raw=true"/>
----
---- 
+------
+
 #### Home Tax Credit Prediction Model 
 
 * The motivation of this study is to create a model regarding weather an individual will take the credit for a home repair tax credit in Emil City. Typically only 11% of the homeowners take the credit. Recently, the department created a new marketing campaign where they now project that 25% of the homeowners take the credit. A sample of records were given, which were then feature engineered in an attempt to create a more accurate model. The costs of marketing is 2850 dollars per person. However, when someone takes the credit the department makes 5000 dollars. The community also receives a benefit from the credit. Surrounding homes gain a 56000 dollar aggregate premium, while houses that take the credit sell with a 10000 dollar premium. This particular study creates a model to determine weather a specific individual will take the credit or not. A cost analysis of the model will also be performed, analyzing the model’s performance.
@@ -49,7 +49,7 @@
 [Modeling Bike Share Usage Philadelphia - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/710366?fbclid=IwAR3fos9kkoVe9W1RH8QCTbR7aWhHTbM7qKWlLPUTBcgpU4ER_lVkcXLjSbk)
 
 <img src="images/bike.PNG?raw=true"/>
----
+------
 
 * Philadelphia is a diverse city earning the title of the "city of neighborhoods." Although neighborhood boundaries are often subjective, there are over fifty neighborhoods within the city limits. Each neighborhood has its distinct characteristics, consisting of significant differences in demographics, infrastructure, and land use. The spatial variability across the city creates a challenge for spatial modeling. Our goal is to evaluate median house values and their relationship to numerous census variables for this project utilizing OLS regression. 
 
@@ -58,7 +58,9 @@
 [OLS Regression Modeling - R Studio, ArcGIS](https://drive.google.com/file/d/1AeSWAYSwQMH27qGKKnTcJ36NV932aQ7O/view?usp=sharing)
 
 <img src="images/ols.PNG?raw=false"/>
----
+
+------
+
 #### Spatial Lag, Spatial Error, Geographically Weighted Regression
 
 * This study utilizes spatial lag, spatial error, and geographically weighted regression to account for spatial autocorrelation. The last study found that housing vacancy, college  attainment, poverty status and singly family homes were strong predictors of housing units  median value. We found this by regressing the dependent variable median house value on the  predictors housing vacancy, single family homes, college attainment, and poverty. Although the  findings were statistically significant, the method did not account for spatial autocorrelation. This  report intends to account for spatial lag, spatial error, and geographically weighted regression to  determine if these methods are more suited for geographic analysis than ordinary least squares  regression. 
@@ -68,6 +70,7 @@
 
 <img src="images/lag.PNG?raw=true"/>
 
+------
 
 ### Writing Samples 
 
@@ -79,6 +82,8 @@
 
 <img src="images/Swanton.PNG?raw=true"/>
 
+------
+
 #### Form Based Code Analysis 
 
 * This form-based code analysis analyzes the layout and land use functions within Lowell, Massachusetts Canal district. The paper focuses on the necessity to preserve Lowell's historic resources while creating a vibrant new mixed use commercial/ residental land use zone adjacent to Lowell's city center. 
@@ -87,14 +92,12 @@
 
 <img src="images/form.PNG?raw=true"/>
 
----
-
-
+------
 
 ## University of Vermont Undergraduate 
 
 
----
+---------
 
 #### Crystal Chemistry Research
 
@@ -104,9 +107,7 @@
 
 <img src="images/crystal.PNG?raw=true"/>
 
----
-
----
+------
 
 #### Geochronology Research
 
@@ -117,9 +118,7 @@
 
 <img src="images/rock.PNG?raw=true"/>
 
----
-
----
+------
 
 #### ArcGIS Web Application, utilizing model builder and spatial analysis toolbox.
 
@@ -128,9 +127,8 @@
 [Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)
 
 <img src="images/geo.PNG?raw=true"/>
----
 
----
+------
 
 #### ENVI Remote Sensing Time Series Analysis 
 
@@ -139,9 +137,8 @@
 [ENVI Time Series Analysis: Detecting Changes in Atmospheric Water Vapor and Cloud Features within Hurricane Barry](https://drive.google.com/file/d/1gPxt5yPMF9d0hxpzzUlLqvzCTWy8yjiB/view?usp=sharing)
 
 <img src="images/envi.PNG?raw=true"/>
----
 
----
+------
 
 #### Tableau Data Visualization
 
@@ -150,9 +147,8 @@
 [Indiana Tree Canopy and Surface Temperature Relationships - ArcGIS, Tableau](https://public.tableau.com/profile/kyle3622#!/vizhome/RelationshipBetweenTreeCanopyandMeanSurfaceTemperatureinIndianapolisGrids/Dashboard1?publish=yes)
 
 <img src="images/tree.PNG?raw=true"/>
----
 
----
+------
 
 #### Burlington, Vermont Public Transit Analysis 
 
@@ -162,9 +158,7 @@
 
 <img src="images/bus.PNG?raw=true"/>
 
-
----
-
+------
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
