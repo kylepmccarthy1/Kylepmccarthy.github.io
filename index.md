@@ -49,11 +49,12 @@
 [Modeling Bike Share Usage Philadelphia - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/710366?fbclid=IwAR3fos9kkoVe9W1RH8QCTbR7aWhHTbM7qKWlLPUTBcgpU4ER_lVkcXLjSbk)
 
 <img src="images/bike.PNG?raw=true"/>
+
 ------
 
-* Philadelphia is a diverse city earning the title of the "city of neighborhoods." Although neighborhood boundaries are often subjective, there are over fifty neighborhoods within the city limits. Each neighborhood has its distinct characteristics, consisting of significant differences in demographics, infrastructure, and land use. The spatial variability across the city creates a challenge for spatial modeling. Our goal is to evaluate median house values and their relationship to numerous census variables for this project utilizing OLS regression. 
-
 #### OLS Regression
+
+* Philadelphia is a diverse city earning the title of the "city of neighborhoods." Although neighborhood boundaries are often subjective, there are over fifty neighborhoods within the city limits. Each neighborhood has its distinct characteristics, consisting of significant differences in demographics, infrastructure, and land use. The spatial variability across the city creates a challenge for spatial modeling. Our goal is to evaluate median house values and their relationship to numerous census variables for this project utilizing OLS regression. 
 
 [OLS Regression Modeling - R Studio, ArcGIS](https://drive.google.com/file/d/1AeSWAYSwQMH27qGKKnTcJ36NV932aQ7O/view?usp=sharing)
 
