@@ -2,8 +2,7 @@
 
 ---
 
-##  University of Pennsylvania
-##  Masters Urban Spatial Analytics
+##  University of Pennsylvania - Masters Urban Spatial Analytics
 
 ### Heroin Overdose Risk Modelling
 
@@ -120,7 +119,7 @@
 
 ------
 
-### ArcGIS Web Application, utilizing model builder and spatial analysis toolbox.
+### ArcGIS Web Application, Utilizing Model Builder and Spatial Analysis Toolbox.
 
 * Utilizing model builder in ArcGIS, this web application creates a model for interpolating geochronologic ages within the Chester Dome. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the we application was deployed utilizing ArcGIS Online. 
 
