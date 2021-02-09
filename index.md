@@ -4,7 +4,7 @@
 
 ## Masters Urban Spatial Analytics @ University of Pennsylvania
 
-#### Heroin Overdose Risk Modelling
+### Heroin Overdose Risk Modelling
 
 * I collaborated with Tristan Grupp in creating a machine learning model to predict heroin overdose risk in Cincinnati, Ohio. Our algorithm helps the Cincinnati City Government to determine where social services should be allocated, along with EMS services to prevent heroin overdose deaths. The data is then developed into a user friendly web application to best determine where EMS and rehabilition services should be placed. 
 
@@ -14,7 +14,7 @@
 
 ------
 
-#### Vermont Car Crash Trauma Center Analysis
+### Vermont Car Crash Trauma Center Analysis
 
 * Often times the distance from a trauma center to a hospital determines if a car crash victim survives. In the state of Vermont, there are only two trauma centers meaning that much of the state is at a higher risk for car crash deaths. This ArcPy tool determines where a new hospital is best located, specifically looking at where car crash risk is the highest along with underserved regions within the state. 
 
@@ -24,7 +24,7 @@
 
 ------
 
-#### San Diego Earthquake Prediction Web Application
+### San Diego Earthquake Prediction Web Application
 
 * According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter the app predicts the damage cost in each zip code. The user than has the option to select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we come up with a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. 
 
@@ -52,7 +52,7 @@
 
 ------
 
-#### OLS Regression
+### OLS Regression
 
 * Philadelphia is a diverse city earning the title of the "city of neighborhoods." Although neighborhood boundaries are often subjective, there are over fifty neighborhoods within the city limits. Each neighborhood has its distinct characteristics, consisting of significant differences in demographics, infrastructure, and land use. The spatial variability across the city creates a challenge for spatial modeling. Our goal is to evaluate median house values and their relationship to numerous census variables for this project utilizing OLS regression. 
 
@@ -62,7 +62,7 @@
 
 ------
 
-#### Spatial Lag, Spatial Error, Geographically Weighted Regression
+### Spatial Lag, Spatial Error, Geographically Weighted Regression
 
 * This study utilizes spatial lag, spatial error, and geographically weighted regression to account for spatial autocorrelation. The last study found that housing vacancy, college  attainment, poverty status and singly family homes were strong predictors of housing units  median value. We found this by regressing the dependent variable median house value on the  predictors housing vacancy, single family homes, college attainment, and poverty. Although the  findings were statistically significant, the method did not account for spatial autocorrelation. This  report intends to account for spatial lag, spatial error, and geographically weighted regression to  determine if these methods are more suited for geographic analysis than ordinary least squares  regression. 
 
@@ -73,9 +73,7 @@
 
 ------
 
-### Writing Samples 
-
-#### Zoning Ordinance Analysis 
+### Zoning Ordinance Analysis 
 
 * This particular paper is an analysis of Swanton, Vermont's zoning ordinance. There is a significant focus on how Swanton can best preserve it's agriculture industry through zoning, provide recreational opportunity to Swanton residence while ensuring that Swanton's downtown village acts as it's commerical economic center. 
 
@@ -85,7 +83,7 @@
 
 ------
 
-#### Form Based Code Analysis 
+### Form Based Code Analysis 
 
 * This form-based code analysis analyzes the layout and land use functions within Lowell, Massachusetts Canal district. The paper focuses on the necessity to preserve Lowell's historic resources while creating a vibrant new mixed use commercial/ residental land use zone adjacent to Lowell's city center. 
 
@@ -100,7 +98,7 @@
 
 ---------
 
-#### Crystal Chemistry Research
+### Crystal Chemistry Research
 
 * A professional paper describing the behavior of chromium within the mineral tourmaline. An analysis of nine recently published, high-precision structures of chromium-bearing tourmaline, in combination with the Adirondack tourmaline, suggests that structural changes to the Y-site at low concentrations of Cr3+ induce changes in the Z-site that make it more amenable to incorporation of the Cr3+ substituents by increasing <Z–O>. The bond lengths change to lower the bond-valence sum of Cr3+ in the Z-site of the chromium-dravite, making that site more amenable to the substituent. Calculations suggest that the Z-site begins to accept substituent Cr3+ when the bond valence sum of that ion in Z reduces to a value of ~3.36 valence units
 
@@ -110,7 +108,7 @@
 
 ------
 
-#### Geochronology Research
+### Geochronology Research
 
 * This Geocrhonology research utilized skills in geochronology, petrology, structural geology and geochemistry. Utilizing these sub-geologic disciplines, we determined the timing of events within the Chester Dome's creation. The insights in this research provide geologist with a greater understanding of rock formation in the Northeast United States. 
 
@@ -121,7 +119,7 @@
 
 ------
 
-#### ArcGIS Web Application, utilizing model builder and spatial analysis toolbox.
+### ArcGIS Web Application, utilizing model builder and spatial analysis toolbox.
 
 * Utilizing model builder in ArcGIS, this web application creates a model for interpolating geochronologic ages within the Chester Dome. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the we application was deployed utilizing ArcGIS Online. 
 
@@ -131,7 +129,7 @@
 
 ------
 
-#### ENVI Remote Sensing Time Series Analysis 
+### ENVI Remote Sensing Time Series Analysis 
 
 * I created a time series analysis to determine how Hurricane Barry changed overtime after hitting landfall in 2019. Utilizing remote sensing techniques, I created three separate time series to determine how changes occured in Hurricane Barry within different portions of the atmosphere. 
 
@@ -141,7 +139,7 @@
 
 ------
 
-#### Tableau Data Visualization
+### Tableau Data Visualization
 
 * Below is a data visualization utilizing ArcGIS and Tableau to present the relationship between surface termperature and tree canopy coverage within Indiana. 
 
@@ -151,7 +149,7 @@
 
 ------
 
-#### Burlington, Vermont Public Transit Analysis 
+### Burlington, Vermont Public Transit Analysis 
 
 * These series of data visualizations represent where Burlington services are located. Utilizing spatial distribution of the services, we determined which regions in Burlington are currently undeserved by the Burlington Bus System. Green Mountain Transit utilized the findings to create better bus routes within the city. 
 
