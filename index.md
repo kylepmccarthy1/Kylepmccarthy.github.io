@@ -2,7 +2,8 @@
 
 ---
 
-## Masters Urban Spatial Analytics @ University of Pennsylvania
+##  University of Pennsylvania
+##  Masters Urban Spatial Analytics
 
 ### Heroin Overdose Risk Modelling
 
