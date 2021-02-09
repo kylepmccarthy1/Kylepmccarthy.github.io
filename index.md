@@ -48,6 +48,9 @@ Philadelphia is a diverse city earning the title of the "city of neighborhoods."
 <img src="images/ols.PNG?raw=false"/>
 ---
 
+This study utilizes spatial lag, spatial error, and geographically weighted regression to  account for spatial autocorrelation. The last study found that housing vacancy, college  attainment, poverty status and singly family homes were strong predictors of housing units  median value. We found this by regressing the dependent variable median house value on the  predictors housing vacancy, single family homes, college attainment, and poverty. Although the  findings were statistically significant, the method did not account for spatial autocorrelation. This  report intends to account for spatial lag, spatial error, and geographically weighted regression to  determine if these methods are more suited for geographic analysis than ordinary least squares  regression. 
+
+
 [Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
 
 <img src="images/lag.PNG?raw=true"/>
@@ -55,9 +58,13 @@ Philadelphia is a diverse city earning the title of the "city of neighborhoods."
 
 ### Writing Samples 
 
+This particular paper is an analysis of Swanton, Vermont's zoning ordinance. There is a significant focus on how Swanton can best preserve it's agriculture industry through zoning, provide recreational opportunity to Swanton residence while ensuring that Swanton's downtown village acts as it's commerical economic center. 
+
 [Swanton, Vermont - Zoning Ordinance Analysis](https://drive.google.com/file/d/1b29rToJGBXgPllRc0IEYcCZmECbClpux/view?usp=sharing)
 
 <img src="images/Swanton.PNG?raw=true"/>
+
+This form-based code analysis analyzes the layout and land use functions within Lowell, Massachusetts Canal district. The paper focuses on the necessity to preserve Lowell's historic resources while creating a vibrant new mixed use commercial/ residental land use zone adjacent to Lowell's city center. 
 
 [Lowell, Massachussettes -  Form Based Code Analysis](https://drive.google.com/file/d/1b29rToJGBXgPllRc0IEYcCZmECbClpux/view?usp=sharing)
 
@@ -67,11 +74,12 @@ Philadelphia is a diverse city earning the title of the "city of neighborhoods."
 
 
 
-
 ## University of Vermont Undergraduate 
 
 
 ---
+
+A professional paper describing the behavior of chromium within the mineral tourmaline. An analysis of nine recently published, high-precision structures of chromium-bearing tourmaline, in combination with the Adirondack tourmaline, suggests that structural changes to the Y-site at low concentrations of Cr3+ induce changes in the Z-site that make it more amenable to incorporation of the Cr3+ substituents by increasing <Z–O>. The bond lengths change to lower the bond-valence sum of Cr3+ in the Z-site of the chromium-dravite, making that site more amenable to the substituent. Calculations suggest that the Z-site begins to accept substituent Cr3+ when the bond valence sum of that ion in Z reduces to a value of ~3.36 valence units
 
 [The Atomic Arrangement of Cr-rich Tourmaline from the #1 Mine, Balmat, St. Lawrence County, New York- MATLAB, APEX, Crystal Chemistry](https://www.mdpi.com/2075-163X/9/7/398)
 
@@ -81,6 +89,7 @@ Philadelphia is a diverse city earning the title of the "city of neighborhoods."
 
 ---
 
+
 [EVIDENCE FOR POLYPHASE DEFORMATION IN THE MYLONITIC ZONES BOUNDING THE CHESTER AND ATHENS DOMES, SOUTHEASTERN VERMONT, FROM 40AR/39AR GEOCHRONOLOGY](https://www.uvm.edu/sites/default/files/Department-of-Geology/SchnalzerPoster.pdf)
 
 <img src="images/rock.PNG?raw=true"/>
@@ -89,12 +98,15 @@ Philadelphia is a diverse city earning the title of the "city of neighborhoods."
 
 ---
 
+Utilizing model builder in ArcGIS, this web application creates a model for interpolating geochronologic ages within the Chester Dome. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the we application was deployed utilizing ArcGIS Online. 
+
 [Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)
 
 <img src="images/geo.PNG?raw=true"/>
 ---
 
 ---
+I created a time series analysis to determine how Hurricane Barry changed overtime after hitting landfall in 2019. Utilizing remote sensing techniques, I created three separate time series to determine how changes occured in Hurricane Barry within different portions of the atmosphere. 
 
 [ENVI Time Series Analysis: Detecting Changes in Atmospheric Water Vapor and Cloud Features within Hurricane Barry](https://drive.google.com/file/d/1gPxt5yPMF9d0hxpzzUlLqvzCTWy8yjiB/view?usp=sharing)
 
@@ -102,6 +114,7 @@ Philadelphia is a diverse city earning the title of the "city of neighborhoods."
 ---
 
 ---
+Below is a data visualization utilizing ArcGIS and Tableau to present the relationship between surface termperature and tree canopy coverage within Indiana. 
 
 [Indiana Tree Canopy and Surface Temperature Relationships - ArcGIS, Tableau](https://public.tableau.com/profile/kyle3622#!/vizhome/RelationshipBetweenTreeCanopyandMeanSurfaceTemperatureinIndianapolisGrids/Dashboard1?publish=yes)
 
@@ -110,9 +123,12 @@ Philadelphia is a diverse city earning the title of the "city of neighborhoods."
 
 ---
 
+These series of data visualizations represent where Burlington services are located. Utilizing spatial distribution of the services, we determined which regions in Burlington are currently undeserved by the Burlington Bus System. Green Mountain Transit utilized the findings to create better bus routes within the city. 
+
 [Mapping Essential Resources in the Greater Burlington Area via Local GMT Bus Routes](https://drive.google.com/file/d/1Hp5BMTz7gRHoaDwPTEz_XrJnomf24fLm/view?usp=sharing)
 
 <img src="images/bus.PNG?raw=true"/>
+
 
 ---
 
