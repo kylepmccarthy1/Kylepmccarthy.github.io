@@ -12,7 +12,7 @@
 
 [Urban Forest Web Application, Pennsylvania - Leaflet, JavaScript, CSS, HTML, JQuerry](https://palakagr.github.io/MUSAPracticum/#)
 
-<img src="images/trees.PNG?raw=true"/>
+<img src="images/treesapp.PNG?raw=true"/>
 
 ------
 
