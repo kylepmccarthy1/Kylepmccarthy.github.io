@@ -20,6 +20,8 @@ We created a user-friendly web application to communicate the results. The web a
 
 [Urban Forest Web Application, Pennsylvania - Leaflet, JavaScript, CSS, HTML, JQuerry](https://palakagr.github.io/MUSAPracticum/#)
 
+<img src="images/trees.PNG?raw=true"/>
+
 ### Urban Growth Modelling 
 
 * Population growth poses a challenge for many cities across the United States. Understanding where population growth will most likely occur is essential in understanding where to locate new development projects, where to locate public services, how to alter the zoning ordinance, and where urban growth boundaries should be located. Portland, Oregon is known for strict development regulations that concentrate the metropolitan region's new development within urban growth boundaries. Within this study Tristian Grupp and I explore where population and development will most likely grow in the Portland Metropolitan Area, and by how much.
