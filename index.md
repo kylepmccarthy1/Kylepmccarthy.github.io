@@ -6,13 +6,7 @@
 
 ### Urban Forestry Modelling 
 
-* Most of the tree canopy loss occurred in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city's progress on the goals and how this varies across neighborhoods. The model predicts where substantial tree canopy loss in Philadelphia is most likely to occur. By predicting substantial tree canopy risk, we hope that the model can serve as a tool for local environmental non-profits and government agencies to prioritize their urban greening initiatives. We created a user-friendly web application to communicate the results. The web application has three distinct features. 
-
-1. The application allows you to view the current state of the tree canopy in Philadelphia!
-
-2. The application allows users to view where construction permits locate
-
-3. Most importantly, the application allows users to view areas that are at high risk for substantial tree canopy loss
+* Most of the tree canopy loss occurred in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city's progress on the goals and how this varies across neighborhoods. The model predicts where substantial tree canopy loss in Philadelphia is most likely to occur. By predicting substantial tree canopy risk, we hope that the model can serve as a tool for local environmental non-profits and government agencies to prioritize their urban greening initiatives. We created a user-friendly web application to communicate the results. The web application has three distinct features. First, the application allows you to view the current state of the tree canopy in Philadelphia! Second, the application allows users to view where construction permits locate. Third, most importantly, the application allows users to view areas that are at high risk for substantial tree canopy loss
 
 [Urban Forest Modelling Philadelphia, Pennsylvania - R Studio, ESRI ArcGIS, Machine Learning, Adobe Illustrator](https://pennmusa.github.io/MUSA_801.io/project_22/index.html)
 
