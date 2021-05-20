@@ -4,15 +4,15 @@
 
 ##  University of Pennsylvania - Masters Urban Spatial Analytics
 
-### Heroin Overdose Risk Modelling
 
-* I collaborated with Tristan Grupp in creating a machine learning model to predict heroin overdose risk in Cincinnati, Ohio. Our algorithm helps the Cincinnati City Government to determine where social services should be allocated, along with EMS services to prevent heroin overdose deaths. The data is then developed into a user friendly web application to best determine where EMS and rehabilition services should be placed. 
 
-[Modeling the Heroin Overdose Crisis in Cincinnati - R Studio (Machine Learning)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmM-kaYQsX7k%26fbclid%3DIwAR360Wv4RbVYMpqIVk2d55uNUrvPSpcaO09fnAG1UvdfPeMNOVSNNQ5WmgM&h=AT0jWpFFAxozj4dA17KEef_cXbc04KK8UserChWlwssMJI7HPwL3ng4uVSvZBldG1sUWyttsesfEoI3tGLOuDNGgWA6cuQIq9H2wIKtlqErNJ1dCay0ubGuvOZFAPJi22ziMT5KaVPxtRdDGkyfm&__tn__=-UK-R&c[0]=AT33Rgnm4vR5ADXAM1eyU2nEYkYjoMzaZ6S1yPi_LXVD3kkLo7uwV4QrrgJ7VBTPunwh-IHHpY9z-yQGC5Sszp_oPK8JLXmD1QNoNucSv8R8-U6L-c8MWdguVONd0WKe8GFJ5ut2aQgAUN1-VBtP2ucIGw)
+### Urban Growth Modelling 
 
-<img src="images/youtube.PNG?raw=true"/>
+* Population growth poses a challenge for many cities across the United States. Understanding where population growth will most likely occur is essential in understanding where to locate new development projects, where to locate public services, how to alter the zoning ordinance, and where urban growth boundaries should be located. Portland, Oregon is known for strict development regulations that concentrate the metropolitan region's new development within urban growth boundaries. Within this study Tristian Grupp and I explore where population and development will most likely grow in the Portland Metropolitan Area, and by how much.
 
-------
+[Urban Growth Modelling Portland, Oregon - R Studio, ESRI ArcGIS, Raster](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/KyleMcCarthy_TristanGrupp_CPLN675Final.html)
+
+<img src="images/growth.PNG?raw=true"/>
 
 ### Vermont Car Crash Trauma Center Analysis
 
@@ -21,6 +21,19 @@
 [Vermont Car Crash - Trauma Ceneter Analysis- ArcPy, ArcGIS API, ArcGIS Pro](https://drive.google.com/file/d/1v7lfxWe2dVEcb45x4YQkDiwreRLbfSVr/view?fbclid=IwAR1y9kDaGO5jR2PlWJte22DnhK-2J-pgZ6gzhc4vhXKFFbM5OQtxNDsh5SM)
 
 <img src="images/Vermont.PNG?raw=true"/>
+
+------
+
+### Heroin Overdose Risk Modelling
+
+* I collaborated with Tristan Grupp in creating a machine learning model to predict heroin overdose risk in Cincinnati, Ohio. Our algorithm helps the Cincinnati City Government to determine where social services should be allocated, along with EMS services to prevent heroin overdose deaths. The data is then developed into a user friendly web application to best determine where EMS and rehabilition services should be placed. 
+
+[Modeling the Heroin Overdose Crisis in Cincinnati - R Studio (Machine Learning)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmM-kaYQsX7k%26fbclid%3DIwAR360Wv4RbVYMpqIVk2d55uNUrvPSpcaO09fnAG1UvdfPeMNOVSNNQ5WmgM&h=AT0jWpFFAxozj4dA17KEef_cXbc04KK8UserChWlwssMJI7HPwL3ng4uVSvZBldG1sUWyttsesfEoI3tGLOuDNGgWA6cuQIq9H2wIKtlqErNJ1dCay0ubGuvOZFAPJi22ziMT5KaVPxtRdDGkyfm&__tn__=-UK-R&c[0]=AT33Rgnm4vR5ADXAM1eyU2nEYkYjoMzaZ6S1yPi_LXVD3kkLo7uwV4QrrgJ7VBTPunwh-IHHpY9z-yQGC5Sszp_oPK8JLXmD1QNoNucSv8R8-U6L-c8MWdguVONd0WKe8GFJ5ut2aQgAUN1-VBtP2ucIGw)
+
+[View Markdown)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/cincy_final_backup2.html)
+
+<img src="images/youtube.PNG?raw=true"/>
+
 
 ------
 
