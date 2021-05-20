@@ -6,9 +6,7 @@
 
 ### Urban Forestry Modelling 
 
-* Most of the tree canopy loss occurred in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city's progress on the goals and how this varies across neighborhoods. The model predicts where substantial tree canopy loss in Philadelphia is most likely to occur. By predicting substantial tree canopy risk, we hope that the model can serve as a tool for local environmental non-profits and government agencies to prioritize their urban greening initiatives. 
-
-We created a user-friendly web application to communicate the results. The web application has three distinct features. 
+* Most of the tree canopy loss occurred in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city's progress on the goals and how this varies across neighborhoods. The model predicts where substantial tree canopy loss in Philadelphia is most likely to occur. By predicting substantial tree canopy risk, we hope that the model can serve as a tool for local environmental non-profits and government agencies to prioritize their urban greening initiatives. We created a user-friendly web application to communicate the results. The web application has three distinct features. 
 
 1. The application allows you to view the current state of the tree canopy in Philadelphia!
 
@@ -22,13 +20,7 @@ We created a user-friendly web application to communicate the results. The web a
 
 <img src="images/trees.PNG?raw=true"/>
 
-### Urban Growth Modelling 
-
-* Population growth poses a challenge for many cities across the United States. Understanding where population growth will most likely occur is essential in understanding where to locate new development projects, where to locate public services, how to alter the zoning ordinance, and where urban growth boundaries should be located. Portland, Oregon is known for strict development regulations that concentrate the metropolitan region's new development within urban growth boundaries. Within this study Tristian Grupp and I explore where population and development will most likely grow in the Portland Metropolitan Area, and by how much.
-
-[Urban Growth Modelling Portland, Oregon - R Studio, ESRI ArcGIS, Raster](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/KyleMcCarthy_TristanGrupp_CPLN675Final.html)
-
-<img src="images/growth.PNG?raw=true"/>
+------
 
 ### Vermont Car Crash Trauma Center Analysis
 
@@ -37,6 +29,16 @@ We created a user-friendly web application to communicate the results. The web a
 [Vermont Car Crash - Trauma Ceneter Analysis- ArcPy, ArcGIS API, ArcGIS Pro](https://drive.google.com/file/d/1v7lfxWe2dVEcb45x4YQkDiwreRLbfSVr/view?fbclid=IwAR1y9kDaGO5jR2PlWJte22DnhK-2J-pgZ6gzhc4vhXKFFbM5OQtxNDsh5SM)
 
 <img src="images/Vermont.PNG?raw=true"/>
+
+------
+
+### Urban Growth Modelling 
+
+* Population growth poses a challenge for many cities across the United States. Understanding where population growth will most likely occur is essential in understanding where to locate new development projects, where to locate public services, how to alter the zoning ordinance, and where urban growth boundaries should be located. Portland, Oregon is known for strict development regulations that concentrate the metropolitan region's new development within urban growth boundaries. Within this study Tristian Grupp and I explore where population and development will most likely grow in the Portland Metropolitan Area, and by how much.
+
+[Urban Growth Modelling Portland, Oregon - R Studio, ESRI ArcGIS, Raster](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/KyleMcCarthy_TristanGrupp_CPLN675Final.html)
+
+<img src="images/growth.PNG?raw=true"/>
 
 ------
 
