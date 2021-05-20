@@ -4,7 +4,21 @@
 
 ##  University of Pennsylvania - Masters Urban Spatial Analytics
 
+### Urban Forestry Modelling 
 
+* Most of the tree canopy loss occurred in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city's progress on the goals and how this varies across neighborhoods. The model predicts where substantial tree canopy loss in Philadelphia is most likely to occur. By predicting substantial tree canopy risk, we hope that the model can serve as a tool for local environmental non-profits and government agencies to prioritize their urban greening initiatives. 
+
+We created a user-friendly web application to communicate the results. The web application has three distinct features. 
+
+1. The application allows you to view the current state of the tree canopy in Philadelphia!
+
+2. The application allows users to view where construction permits locate
+
+3. Most importantly, the application allows users to view areas that are at high risk for substantial tree canopy loss
+
+[Urban Forest Modelling Philadelphia, Pennsylvania - R Studio, ESRI ArcGIS, Machine Learning, Adobe Illustrator](https://pennmusa.github.io/MUSA_801.io/project_22/index.html)
+
+[Urban Forest Web Application, Pennsylvania - Leaflet, JavaScript, CSS, HTML, JQuerry](https://palakagr.github.io/MUSAPracticum/#)
 
 ### Urban Growth Modelling 
 
@@ -30,7 +44,7 @@
 
 [Modeling the Heroin Overdose Crisis in Cincinnati - R Studio (Machine Learning)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmM-kaYQsX7k%26fbclid%3DIwAR360Wv4RbVYMpqIVk2d55uNUrvPSpcaO09fnAG1UvdfPeMNOVSNNQ5WmgM&h=AT0jWpFFAxozj4dA17KEef_cXbc04KK8UserChWlwssMJI7HPwL3ng4uVSvZBldG1sUWyttsesfEoI3tGLOuDNGgWA6cuQIq9H2wIKtlqErNJ1dCay0ubGuvOZFAPJi22ziMT5KaVPxtRdDGkyfm&__tn__=-UK-R&c[0]=AT33Rgnm4vR5ADXAM1eyU2nEYkYjoMzaZ6S1yPi_LXVD3kkLo7uwV4QrrgJ7VBTPunwh-IHHpY9z-yQGC5Sszp_oPK8JLXmD1QNoNucSv8R8-U6L-c8MWdguVONd0WKe8GFJ5ut2aQgAUN1-VBtP2ucIGw)
 
-[View Markdown)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/cincy_final_backup2.html)
+[View Markdown](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/cincy_final_backup2.html)
 
 <img src="images/youtube.PNG?raw=true"/>
 
