@@ -32,7 +32,7 @@
 
 [Urban Growth Modelling Portland, Oregon - R Studio, ESRI ArcGIS, Raster](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/KyleMcCarthy_TristanGrupp_CPLN675Final.html)
 
-[Poster Summary](C:/Users/Kyle McCarthy/Documents/GitHub/Kylepmccarthy.github.io/GrowthP.PDF)
+[Poster Summary](https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/PosterGrowth1.PNG)
 
 <img src="images/growth.PNG?raw=true"/>
 
