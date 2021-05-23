@@ -94,7 +94,7 @@
 * This study utilizes spatial lag, spatial error, and geographically weighted regression to account for spatial autocorrelation. The last study found that housing vacancy, college attainment, poverty status, and singly family homes were strong predictors of housing units' median value. We found this by regressing the dependent variable median house value on the predictors housing vacancy, single-family homes, college attainment, and poverty. Although the findings were statistically significant, the method did not account for spatial autocorrelation. This report intends to account for spatial lag, spatial error, and geographically weighted regression to determine if these methods are more suited for geographic analysis than ordinary least squares regression. 
 
 
-[Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1eZIFjIOgn3SHLa06x6JmsqYkgCqZY6nj/view?usp=sharing)
+[Spatial Lag and Spatial Error - Geoda, ArcGis, R Studio](https://drive.google.com/file/d/1xpb4vQrLXzNzez0QKWKnwVGN5fLVdNJ8/view?usp=sharing)
 
 <img src="images/lag.PNG?raw=true"/>
 
